@@ -1,2 +1,5 @@
 # bt_note
- bt backtest learning note
+ this is a[bt](https://github.com/pmorissette/bt) backtest learning note
+
+
+
